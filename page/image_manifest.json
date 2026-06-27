@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "filename": "hero-inhotim-aerial-golden-hour.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtk3acaiha/hero-inhotim-aerial-golden-hour.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtk3acaiha/hero-inhotim-aerial-golden-hour.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtk3acaiha/hero-inhotim-aerial-golden-hour.png"
+    },
+    {
+      "status": "success",
+      "filename": "botanical-garden-palms-path.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtlhycaigq/botanical-garden-palms-path.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtlhycaigq/botanical-garden-palms-path.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtlhycaigq/botanical-garden-palms-path.png"
+    },
+    {
+      "status": "success",
+      "filename": "art-installation-outdoor-sculpture.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtlwicaiga/art-installation-outdoor-sculpture.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtlwicaiga/art-installation-outdoor-sculpture.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtlwicaiga/art-installation-outdoor-sculpture.png"
+    },
+    {
+      "status": "success",
+      "filename": "landscape-minas-gerais-hills.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtmdacaieq/landscape-minas-gerais-hills.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtmdacaieq/landscape-minas-gerais-hills.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1177206/2026-06-26/rkbtmdacaieq/landscape-minas-gerais-hills.png"
+    }
+  ],
+  "success_count": 4,
+  "failed_count": 0,
+  "running_count": 0,
+  "message": "Generated 4/4 images total"
+}
